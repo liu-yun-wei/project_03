@@ -177,7 +177,7 @@ table {
 }
 
 #main_head_box {
-    width: 100%;
+    width: 1226px;
     position: relative;
     color: #424242;
 }
@@ -671,7 +671,7 @@ table {
 }
 
 #main_show_box {
-    width: 100%;
+    width: 1226px;
     background: #f5f5f5;
     padding-bottom: 80px;
 }
@@ -794,7 +794,7 @@ table {
 }
 
 #foot_box {
-    width: 100%;
+    width: 1226px;
     height: 280px;
 }
 
